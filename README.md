@@ -6,10 +6,9 @@
 ### do not forget to : `sudo apt-get update` !!!!!!!
 
 1. verify that you already have installed "git","cmake" and "g++"
-⋅⋅1. to install git `sudo apt-get  install git`
-⋅⋅2. to install cmake ` sudo apt-get -y install cmake`
-⋅⋅3.to install g++  `sudo apt-get install g++
-`
+* to install git `sudo apt-get  install git`
+* to install cmake ` sudo apt-get -y install cmake`
+*to install g++  `sudo apt-get install g++`
 2. clone the project to your local machine
 4. execute the script `./armadillo_installer.sh`
 
