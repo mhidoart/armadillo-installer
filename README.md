@@ -10,7 +10,8 @@
 * to install cmake ` sudo apt-get -y install cmake`
 * to install g++  `sudo apt-get install g++`
 2. clone the project to your local machine
-4. execute the script: 
+4. execute the script:
+
 `cd armadillo-installer`
 
 `sudo chmod +x armadillo_installer.sh`
