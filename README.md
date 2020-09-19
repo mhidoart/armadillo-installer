@@ -2,9 +2,6 @@
 
 #### how to use the script in order to automaticly install armadillo library
 
-
-### do not forget to : `sudo apt-get update` !!!!!!!
-
 1. verify that you already have installed "git","cmake" and "g++"
 * to install git `sudo apt-get  install git`
 * to install cmake ` sudo apt-get -y install cmake`
